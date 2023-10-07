@@ -1,6 +1,6 @@
 ## Hi there! I am Angelin 👋
 
-I am a passionate programmer based in Bulgaria. Currently, I am a student at the University of Veliko Tarnovo and attending online classes at Software University (SoftUni).
+A passionate programmer who is fascinated with the wonders you can create through a computer, based in Bulgaria. Currently, being a student at the University of Veliko Tarnovo and attending online classes at Software University(SoftUni).
 
 ### Feel free to contact me...
 <p align="center">

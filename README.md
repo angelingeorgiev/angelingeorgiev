@@ -1,6 +1,6 @@
 ## Hi there! I am Angelin 👋
 
-I am a passionate programmer based in Bulgaria. Currently being a student at the University of Veliko Tarnovo and attending online classes at Software University (SoftUni).
+I am a passionate programmer based in Bulgaria. Currently, I am a student at the University of Veliko Tarnovo and attending online classes at Software University (SoftUni).
 
 ### Feel free to contact me...
 <p align="center">
@@ -9,6 +9,7 @@ I am a passionate programmer based in Bulgaria. Currently being a student at the
 </p>
 
 ### Programming Languages...
+Mainly working with Python and its frameworks. Have some understanding of JavaScript and planning on learning it in depth as my journey goes on!
 <p align="center">
 	<img width="9%" style="padding:5px" src="https://img.icons8.com/color/144/000000/python.png"/>
 	<img width="9%" style="padding:5px" src="https://img.icons8.com/color/144/000000/javascript.png"/>

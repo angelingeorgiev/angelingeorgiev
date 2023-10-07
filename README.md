@@ -1,4 +1,8 @@
 ## Hi there! I am Angelin 👋
+<p align="center">
+<img width="20%" src="https://img.icons8.com/ios-filled/96/000000/programming.png"/>
+</p>
+
 
 A passionate programmer who is fascinated with the wonders you can create through a computer, based in Bulgaria. Currently, being a student at the University of Veliko Tarnovo and attending online classes at Software University(SoftUni).
 

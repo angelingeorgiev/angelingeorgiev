@@ -10,6 +10,6 @@ I am a passionate programmer based in Bulgaria. Currently being a student at the
 
 ### Programming Languages...
 <p align="center">
-	<img width="15%" style="padding:5px" src="https://img.icons8.com/color/144/000000/python.png"/>
-	<img width="15%" style="padding:5px" src="https://img.icons8.com/color/144/000000/javascript.png"/>
+	<img width="9%" style="padding:5px" src="https://img.icons8.com/color/144/000000/python.png"/>
+	<img width="9%" style="padding:5px" src="https://img.icons8.com/color/144/000000/javascript.png"/>
 </p>
